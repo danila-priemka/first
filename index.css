@@ -2,9 +2,7 @@ body {
     font-family: "Mulish";
     font-style: normal;
     background-color: #f5f5f5;
-    font-weight: 400;
-    max-width: 1920px;
-    margin: 0 auto;
+    width: 100%;
 }
 
 .wrapper {
@@ -186,7 +184,8 @@ body {
 }
 
 .section2_heart-desc_heart {
-    margin: 0 50% 40px;
+    display: block;
+    margin: 0 auto 40px;
 }
 
 .section2_heart-desc_text {
